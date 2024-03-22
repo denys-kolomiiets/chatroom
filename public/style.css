@@ -68,8 +68,9 @@ body {
   border-radius: 12px;
   font-size: 18px;
   line-height: 24px;
-  color: #708090;
+  color: #2a3439;
   font-weight: 700;
+  outline: none;
 }
 
 .screen .form-input button {
